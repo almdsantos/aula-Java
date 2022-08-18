@@ -1,0 +1,11 @@
+package br.com.fecaf.aula01;
+
+public class Aula1 {
+
+	//Método
+	public static void main(String[] args) {
+		//Serve para exibir uma informação na tela
+		System.out.println("Testando o Java");
+	}
+
+}

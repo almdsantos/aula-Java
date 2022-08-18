@@ -1,0 +1,11 @@
+package br.com.fecaf.aula01;
+
+public class Aula1 {
+
+	//Método
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
