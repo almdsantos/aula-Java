@@ -39,16 +39,16 @@ public class MediaEscolar {
 	    System.out.println("\nFavor digitar a segunda nota \n");
 	    valor2 = entradaDados.nextFloat();
 
-	    System.out.println("\nFavor digitar a segunda nota \n");
+	    System.out.println("\nFavor digitar a terceira nota \n");
 	    valor3 = entradaDados.nextFloat();
 
-	    System.out.println("\nFavor digitar a segunda nota \n");
+	    System.out.println("\nFavor digitar a quarta nota \n");
 	    valor4 = entradaDados.nextFloat();
 	    
 	    //Calculo da Média
 	    media = (valor1 + valor2 + valor3 + valor4) / 4;
 	    
-	    System.out.println("Sua nota e, " + numberFormat.format(media));
+	    System.out.println("Sua nota é: " + numberFormat.format(media));
 	}
 
 }
