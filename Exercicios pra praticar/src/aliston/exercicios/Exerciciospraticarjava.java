@@ -1,4 +1,4 @@
-package aliston.exercicios;
+5package aliston.exercicios;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
