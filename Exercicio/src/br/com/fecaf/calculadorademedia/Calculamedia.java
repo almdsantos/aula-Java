@@ -102,9 +102,6 @@ public class Calculamedia {
 		} else if (media <= 49); {
 			situacao = ("Reprovado");
 		}
-		
-		//Calculo da média				
-		
 				
 		//Relatório do Aluno:
 		
